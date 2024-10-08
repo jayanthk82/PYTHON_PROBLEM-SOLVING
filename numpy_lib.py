@@ -43,21 +43,3 @@ arr9 = np.linspace(1,10,num=10,retstep=True)
 print(arr8)
 print(arr9)
 
-
-'''Intermediate Questions:
-Matrix operations:
-
-Given two 2D arrays, perform matrix multiplication using np.dot() or @ operator.
-Boolean indexing:
-
-Given an array of random integers, use boolean indexing to find and print all elements that are greater than 5.
-Fancy indexing:
-How can you retrieve specific rows and columns using fancy indexing? Try retrieving the 1st and 3rd row from a 3x3 matrix.
-Statistical functions:
-Given a NumPy array of random values, calculate the mean, median, and standard deviation of the array.
-Concatenation and splitting:
-Concatenate two arrays vertically and horizontally. Also, demonstrate how to split an array into equal-sized sub-arrays.
-Random number generation:
-Generate a random 4x4 matrix with values drawn from a normal distribution. Also, generate a random 3x3 matrix with integers between 1 and 100.
-Broadcasting:
-What is broadcasting in NumPy? Create a 1D array of shape (3,) and a 2D array of shape (3, 3). Add them together and observe the result.'''
